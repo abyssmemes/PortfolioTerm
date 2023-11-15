@@ -36,7 +36,7 @@ const sumfetch = async (args: string[]): Promise<string> => {
    ▓▓      ▐▓▓    ▓▓    ▐▓▓     ▓▓           <u><a href="https://linkedin.com/in/${config.social.linkedin}" target="_blank">linkedin.com/in/${config.social.linkedin}</a></u>
     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           -----------
       ▓▓▓   ▐▓▓   ▓▓   ▓▓▓   ▓▓▀             EXPERIENCE
-        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                  DevOps engineer in Unplugged Systems Ltd., Yokneam-illit Israel (https://.unplugged.com)
+        ▀▓▓▄▄ ▀▓▓▄▓▓▄▓▓▓▄▄▓▓▀                  DevOps engineer in Unplugged Systems Ltd., Yokneam-illit Israel (https://unplugged.com)
             ▀▓▓▓▓▓▓▓▓▓▓▓▀▀                        December 20 -2021// current
                                                System administration specialist  in Ravitzit,Amitnet -Haifa, Israel (https://amit-net.co.il)
                                                   April '15 – 2018//December 20 - 2021 
